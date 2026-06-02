@@ -1,0 +1,48 @@
+## .NET
+*.user
+*.suo
+.vs/
+[Bb]in/
+[Oo]bj/
+*.nupkg
+*.snupkg
+project.lock.json
+packages/
+.nuget/
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+out/
+publish/
+
+## Test results
+TestResults/
+[Cc]overage*/
+*.coverage
+*.coveragexml
+*.trx
+
+## Rider / JetBrains
+.idea/
+*.iml
+
+## VS Code
+.vscode/
+!.vscode/extensions.json
+
+## OS
+.DS_Store
+Thumbs.db
+
+## User-specific
+*.rsuser
+*.user
+appsettings.*.json
+!appsettings.Development.json

@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BancoDigital.Api/BancoDigital.Api.csproj" />
+    <Project Path="src/BancoDigital.Application/BancoDigital.Application.csproj" />
+    <Project Path="src/BancoDigital.Domain/BancoDigital.Domain.csproj" />
+    <Project Path="src/BancoDigital.Infrastructure/BancoDigital.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BancoDigital.UnitTests/BancoDigital.UnitTests.csproj" />
+  </Folder>
+</Solution>
