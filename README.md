@@ -375,11 +375,6 @@ banco-digital-api/
 │
 ├── docker-compose.yml
 ├── Dockerfile
-├── CONSTITUTION.md
-├── SPEC.md
-├── PLAN.md
-├── TASK.md
-└── README.md
 ```
 
 ---
