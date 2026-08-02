@@ -1,3 +1,5 @@
+using BancoDigital.Application.UseCases.Contas.Requests;
+using BancoDigital.Application.UseCases.Contas.Response;
 using BancoDigital.Domain.Entities;
 using BancoDigital.Domain.Repositories;
 

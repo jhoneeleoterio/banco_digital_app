@@ -1,5 +1,6 @@
 using AwesomeAssertions;
 using BancoDigital.Application.UseCases.Contas;
+using BancoDigital.Application.UseCases.Contas.Requests;
 using BancoDigital.Domain.Entities;
 using BancoDigital.Domain.Repositories;
 using NSubstitute;

@@ -1,6 +1,7 @@
 using AwesomeAssertions;
 using BancoDigital.Application.Services;
 using BancoDigital.Application.UseCases.Transferencias;
+using BancoDigital.Application.UseCases.Transferencias.Requests;
 using BancoDigital.Domain.Entities;
 using BancoDigital.Domain.Exceptions;
 using BancoDigital.Domain.Repositories;

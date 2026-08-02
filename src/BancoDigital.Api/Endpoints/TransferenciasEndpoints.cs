@@ -1,4 +1,6 @@
 using BancoDigital.Application.UseCases.Transferencias;
+using BancoDigital.Application.UseCases.Transferencias.Requests;
+using BancoDigital.Application.UseCases.Transferencias.Responses;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BancoDigital.Api.Endpoints;

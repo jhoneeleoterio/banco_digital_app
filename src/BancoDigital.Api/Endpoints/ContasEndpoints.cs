@@ -1,4 +1,6 @@
 using BancoDigital.Application.UseCases.Contas;
+using BancoDigital.Application.UseCases.Contas.Requests;
+using BancoDigital.Application.UseCases.Contas.Response;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BancoDigital.Api.Endpoints;

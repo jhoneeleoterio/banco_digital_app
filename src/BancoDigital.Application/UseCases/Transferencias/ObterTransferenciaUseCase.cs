@@ -1,3 +1,4 @@
+using BancoDigital.Application.UseCases.Transferencias.Responses;
 using BancoDigital.Domain.Exceptions;
 using BancoDigital.Domain.Repositories;
 
