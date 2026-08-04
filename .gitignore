@@ -46,3 +46,6 @@ Thumbs.db
 *.user
 appsettings.*.json
 !appsettings.Development.json
+
+## Infra (Terraform) - não versionado
+infra/
